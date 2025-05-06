@@ -1,12 +1,14 @@
 # NTU_Cloud_Native_Assignment4
 
 ## Folder Structure
+```shell
 .
 ├── app1.py
 ├── app2.py
 ├── Dockerfile.app1
 ├── Dockerfile.app2
 └── README.md
+```
 
 ## How to build the docker image
 
