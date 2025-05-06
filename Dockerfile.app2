@@ -2,4 +2,4 @@ FROM python:3.11-slim
 
 COPY . .
 
-CMD ["python3", "app2.py"]
+CMD ["python3", "app3.py"]
